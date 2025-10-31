@@ -34,5 +34,5 @@ __~deeplearning.ai__
 - [Lab: Hash Tables](week_4/hash-functions-and-multiplanes.ipynb)
 - [Programming Assignment: Word Translation](week_4/word-translations.ipynb)
 
-## [Certificate](http://coursera.org/verify/LGBF7J8S99RG)
+## [Certificate]((https://www.coursera.org/account/accomplishments/verify/XTXXBORUO7WC))
 ![certificate](assets/certificate.png)
