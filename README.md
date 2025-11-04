@@ -9,7 +9,7 @@ __~deeplearning.ai__
 - [Week 3](#week-3)
 - [Week 4](#week-4)
 - [Certificate](#certificate)
-
+- 
 ## Week 1
 - [Lab: Data Preprocesing](https://www.coursera.org/learn/classification-vector-spaces-in-nlp/ungradedLab/TXtyC/lab)
 - [Lab: Building Word Frequencies](https://www.coursera.org/learn/classification-vector-spaces-in-nlp/ungradedLab/13HKM/lab)
